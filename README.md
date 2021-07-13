@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Atividade para o bootcamp HTML web developer
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Reprodução da interface de login do instagram.
 
 ### Os requisitos são:
 
@@ -8,3 +8,4 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
